@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'SiriLight';
+    src: url('SiriLight.eot');
+    src: url('SiriLight.eot') format('embedded-opentype'),
+         url('SiriLight.woff2') format('woff2'),
+         url('SiriLight.woff') format('woff'),
+         url('SiriLight.ttf') format('truetype'),
+         url('SiriLight.svg#SiriLight') format('svg');
+}
+
+@font-face {
+    font-family: 'SiriRegular';
+    src: url('SiriRegular.eot');
+    src: url('SiriRegular.eot') format('embedded-opentype'),
+         url('SiriRegular.woff2') format('woff2'),
+         url('SiriRegular.woff') format('woff'),
+         url('SiriRegular.ttf') format('truetype'),
+         url('SiriRegular.svg#SiriRegular') format('svg');
+}
+@font-face {
+    font-family: 'SiriMedium';
+    src: url('SiriMedium.eot');
+    src: url('SiriMedium.eot') format('embedded-opentype'),
+         url('SiriMedium.woff2') format('woff2'),
+         url('SiriMedium.woff') format('woff'),
+         url('SiriMedium.ttf') format('truetype'),
+         url('SiriMedium.svg#SiriMedium') format('svg');
+}
+@font-face {
+    font-family: 'SiriSemiBold';
+    src: url('SiriSemiBold.eot');
+    src: url('SiriSemiBold.eot') format('embedded-opentype'),
+         url('SiriSemiBold.woff2') format('woff2'),
+         url('SiriSemiBold.woff') format('woff'),
+         url('SiriSemiBold.ttf') format('truetype'),
+         url('SiriSemiBold.svg#SiriSemiBold') format('svg');
+}
+@font-face {
+    font-family: 'SiriBold';
+    src: url('SiriBold.eot');
+    src: url('SiriBold.eot') format('embedded-opentype'),
+         url('SiriBold.woff2') format('woff2'),
+         url('SiriBold.woff') format('woff'),
+         url('SiriBold.ttf') format('truetype'),
+         url('SiriBold.svg#SiriBold') format('svg');
+}

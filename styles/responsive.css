@@ -1,0 +1,6 @@
+@media only screen and (max-width:480px)
+{
+    .about-box {margin-right: 0px;margin-bottom: 30px;}
+    .year-journey-slider .swiper-year .year-box {padding-right: 0;}
+    .year-journey-slider:before {top: 72px;}      
+}
